@@ -6,7 +6,7 @@ Thank you for your interest in contributing to Retrieve-IQ! This document outlin
 
 ### Reporting Bugs
 
-1. Check existing issues on [GitHub Issues](https://github.com/retrieve-IQ/.issues)
+1. Check existing issues on [GitHub Issues](https://github.com/retrieve-IQ/.github/issues)
 2. Create a new issue with:
    - Clear title and description
    - Steps to reproduce (if applicable)
@@ -16,7 +16,7 @@ Thank you for your interest in contributing to Retrieve-IQ! This document outlin
 
 ### Suggesting Features
 
-1. Check [GitHub Discussions](https://github.com/retrieve-IQ/.discussions) for feature discussions
+1. Check [GitHub Issues](https://github.com/retrieve-IQ/.github/issues) for feature discussions
 2. Open a feature request issue with:
    - Problem statement
    - Proposed solution
@@ -38,9 +38,8 @@ We welcome pull requests! Here's the workflow:
 
 ### Prerequisites
 
-- Node.js 18+ or Python 3.9+
 - Git
-- npm/yarn/pip package manager
+- A text editor or Markdown viewer
 
 ### Getting Started
 
@@ -49,11 +48,7 @@ We welcome pull requests! Here's the workflow:
 git clone https://github.com/retrieve-IQ/.github.git
 cd .github
 
-# Install dependencies
-npm install        # or: pip install -r requirements.txt
-
-# Start development server
-npm run dev        # or: python -m uvicorn app.main:app --reload
+# Open README.md or docs/README.md in your editor
 ```
 
 ## Code Style Guidelines
@@ -266,7 +261,7 @@ const apiKey = process.env.API_KEY;
 const apiKey = 'sk-1234567890abcdef';
 ```
 
-See `.env.example` for expected environment variables.
+This documentation repository does not require environment variables.
 
 ## Accessibility Requirements
 
@@ -333,7 +328,7 @@ See our full [Code of Conduct](CODE_OF_CONDUCT.md) for more details.
 
 Need assistance? Reach out through:
 
-- **GitHub Discussions**: https://github.com/retrieve-IQ/.discussions
+- **Documentation Issues**: https://github.com/retrieve-IQ/.github/issues
 - **Email**: contributors@retrieve-iq.com
 - **Slack**: Join via retrieve-iq.com/slack
 
@@ -346,7 +341,7 @@ By contributing, you agree that your contributions will be licensed under the pr
 All contributors are recognized:
 
 - Credits in README
-- [CONTRIBUTORS.md](CONTRIBUTORS.md) listing
+- [GitHub contributors](https://github.com/retrieve-IQ/.github/graphs/contributors) listing
 - Release notes mention for significant contributions
 
 ---

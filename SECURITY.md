@@ -35,7 +35,7 @@ The following are **out of scope** for our vulnerability disclosure program:
 
 ### Bug Bounty Program
 
-We run a **conditional** bug bounty program. See our [Bug Bounty Policy](BUG_BOUNTY.md) for details:
+For details about the **conditional** bug bounty program, contact security@retrieve-iq.com:
 
 - **Critical vulnerabilities**: Up to $5,000 USD (remote code execution, authentication bypass affecting production)
 - **High severity**: Up to $2,000 USD (SQL injection, XSS enabling account takeover)

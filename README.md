@@ -1,5 +1,7 @@
 # Retrieve-IQ
 
+Public documentation for the Retrieve-IQ organization. Start with the [documentation index](docs/README.md), or visit our [organization profile](https://github.com/retrieve-IQ).
+
 ## Business Overview
 
 **Retrieve-IQ** is an intelligent platform designed to streamline enterprise information retrieval, knowledge management, and data orchestration workflows. The system enables organizations to efficiently access, organize, and leverage their proprietary data across distributed systems and applications.
@@ -82,30 +84,32 @@ Our mission is to transform how enterprises discover, retrieve, and utilize crit
 
 ```bash
 # Clone the repository
-git clone https://github.com/retrieve-IQ/retrieve-iq.git
+git clone https://github.com/retrieve-IQ/.github.git
 
-# View examples and documentation
-cd retrieve-iq
-./run-demos.sh
+# Open README.md or docs/README.md in your Markdown viewer
+cd .github
 ```
 
 ## Documentation Resources
 
-- [API Reference](docs/api.md) - Complete API specifications
-- [Developer Guide](docs/developer-guide.md) - Integration tutorials
-- [Architecture Overview](docs/architecture.md) - System design patterns
-- [Best Practices](docs/best-practices.md) - Implementation guidelines
+- [Documentation Index](docs/README.md) - All public guides
+- [API Reference](docs/API.md) - API specifications
+- [Examples](docs/EXAMPLES.md) - Integration code samples
+- [Architecture Overview](docs/ARCHITECTURE.md) - System design patterns
+- [Best Practices](docs/BEST_PRACTICES.md) - Implementation guidelines
+- [FAQ](docs/FAQ.md) - Common questions
+- [Troubleshooting](docs/TROUBLESHOOTING.md) - Common issues and solutions
 
 ## Community & Support
 
 Join our community:
-- GitHub Discussions: https://github.com/retrieve-IQ/.discussions
-- Issue Tracker: https://github.com/retrieve-IQ/.issues
-- Code Reviews: https://github.com/retrieve-IQ/.pulls
+- [Documentation Issues](https://github.com/retrieve-IQ/.github/issues)
+- [Pull Requests](https://github.com/retrieve-IQ/.github/pulls)
+- [Organization Repositories](https://github.com/orgs/retrieve-IQ/repositories)
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 

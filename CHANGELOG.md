@@ -120,7 +120,7 @@ Launched with:
 
 #### From v1.x to v2.0
 
-See [Migration Guide v1→v2](docs/migration-v1v2.md):
+See the [v2.0 release notes](#200---2024-08-20):
 - Update authentication header format
 - Adjust response parsing for new metadata fields
 - Review deprecated endpoint redirects
@@ -130,7 +130,7 @@ See [Migration Guide v1→v2](docs/migration-v1v2.md):
 Breaking changes in v1.0:
 - Complete API redesign with consistent schemas
 - New data model and response structures
-- See [v0→v1 migration notes](docs/migration-v0v1.md)
+- See the [v1.0 release notes](#100---2024-03-01)
 
 ### Unreleased Features
 

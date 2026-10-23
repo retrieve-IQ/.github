@@ -42,7 +42,7 @@ Supported integrations include:
 - Cloud storage (AWS S3, Azure Blob, GCP Storage)
 - Enterprise search engines (Elasticsearch, Solr)
 
-See [Documentation](./INTEGRATIONS.md) for connector details.
+See the [integration patterns](./ARCHITECTURE.md#integration-patterns) for API examples.
 
 ### Can I use Retrieve-IQ offline?
 
@@ -145,7 +145,7 @@ Optimization steps:
 2. Narrow filters (`source`, `date_range`)
 3. Consider caching frequent queries
 4. Upgrade to Pro plan for dedicated infrastructure
-5. Review [performance tuning](./PERFORMANCE.md) guide
+5. Review the [performance optimization](./BEST_PRACTICES.md#performance-optimization) guide
 
 ### How do I debug API errors?
 
@@ -204,7 +204,7 @@ Yes! Enterprise plans can:
 - Configure model endpoints
 - Bring your own GPU instances
 
-See [model deployment](./MODEL_CUSTOMIZATION.md) guide.
+A dedicated model deployment guide is not yet included in this repository.
 
 ## Support & Community
 
@@ -228,7 +228,7 @@ See our [contributor guidelines](../CONTRIBUTING.md) for details.
 ### Where can I discuss Retrieve-IQ with other users?
 
 Join our community:
-- GitHub Discussions: https://github.com/retrieve-IQ/.discussions
+- Documentation questions: https://github.com/retrieve-IQ/.github/issues
 - Slack: register at retrieve-iq.com/slack
 - Twitter: @RetrieveIQ
 

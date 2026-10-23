@@ -215,7 +215,7 @@ Include in your report:
 ## Additional Resources
 
 - [API Reference](./API.md) - Complete endpoint documentation
-- [Best Practices](./best-practices.md) - Optimization tips
+- [Best Practices](./BEST_PRACTICES.md) - Optimization tips
 - [Architecture](./ARCHITECTURE.md) - System design overview
 
 ---

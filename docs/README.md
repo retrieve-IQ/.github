@@ -2,6 +2,8 @@
 
 Welcome to Retrieve-IQ documentation. This folder contains guides, references, and examples for using the platform.
 
+Return to the [organization profile](https://github.com/retrieve-IQ) or the [full overview](../README.md).
+
 ## Quick Links
 
 | Document | Description |
@@ -11,7 +13,7 @@ Welcome to Retrieve-IQ documentation. This folder contains guides, references, a
 | [Best Practices](./BEST_PRACTICES.md) | Tips for optimal performance and usage |
 | [FAQ](./FAQ.md) | Frequently asked questions |
 | [Examples](./EXAMPLES.md) | Code samples in multiple languages |
-| [Troubleshooting](./TRUBLESHOOTING.md) | Common issues and solutions |
+| [Troubleshooting](./TROUBLESHOOTING.md) | Common issues and solutions |
 | [CHANGELOG](../CHANGELOG.md) | Version history and migration guides |
 
 ## Getting Started
@@ -19,7 +21,7 @@ Welcome to Retrieve-IQ documentation. This folder contains guides, references, a
 ### For End Users
 1. Read the [README.md](../README.md) for an overview
 2. Check the [FAQ](./FAQ.md) for common questions
-3. Use the [Troubleshooting](./TRUBLESHOOTING.md) guide if issues arise
+3. Use the [Troubleshooting](./TROUBLESHOOTING.md) guide if issues arise
 
 ### For Developers
 1. Review the [API Reference](./API.md) to understand endpoints
