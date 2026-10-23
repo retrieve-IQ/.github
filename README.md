@@ -2,6 +2,14 @@
 
 Public documentation for the Retrieve-IQ organization. Start with the [documentation index](docs/README.md), or visit our [organization profile](https://github.com/retrieve-IQ).
 
+## Property tax platform
+
+Retrieve-IQ helps enterprise taxpayers and agent firms organize property-tax bills, portfolio reporting, appeals, and deadlines. The [property-tax guide](docs/PROPERTY_TAX.md) introduces the workflow, production frontend and API, beta access, and a dated state coverage snapshot.
+
+**[Explore the property-tax use case](docs/PROPERTY_TAX.md)** · **[Open the beta application](https://retrieveiq-prod-web.onrender.com)**
+
+The general information-retrieval material below is separate from this platform's product and API guide.
+
 ## Business Overview
 
 **Retrieve-IQ** is an intelligent platform designed to streamline enterprise information retrieval, knowledge management, and data orchestration workflows. The system enables organizations to efficiently access, organize, and leverage their proprietary data across distributed systems and applications.

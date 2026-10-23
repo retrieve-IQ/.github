@@ -4,10 +4,15 @@ Welcome to Retrieve-IQ documentation. This folder contains guides, references, a
 
 Return to the [organization profile](https://github.com/retrieve-IQ) or the [full overview](../README.md).
 
+## Property tax platform
+
+Start with [Property tax operations with Retrieve-IQ](PROPERTY_TAX.md) for the portfolio workflow, production URLs, beta program, and state coverage. This is the product-specific guide; the general search and retrieval references below describe a separate use case.
+
 ## Quick Links
 
 | Document | Description |
 |----------|-------------|
+| [Property Tax](./PROPERTY_TAX.md) | Portfolio workflow, production endpoints, beta access, and state coverage |
 | [API Reference](./API.md) | Complete API endpoint documentation with examples |
 | [Architecture](./ARCHITECTURE.md) | System design and deployment patterns |
 | [Best Practices](./BEST_PRACTICES.md) | Tips for optimal performance and usage |

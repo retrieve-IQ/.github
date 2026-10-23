@@ -4,6 +4,14 @@
 
 Welcome to Retrieve-IQ. Explore our public documentation to learn about the platform, review architecture and API guides, and find practical integration examples.
 
+## Property tax platform
+
+For enterprise taxpayers and agent firms: bring property-tax bills, portfolio review, appeals, and deadlines into one workspace.
+
+**[Explore the property-tax guide](https://github.com/retrieve-IQ/.github/blob/main/docs/PROPERTY_TAX.md)** · **[Open the beta application](https://retrieveiq-prod-web.onrender.com)**
+
+See the guide for production frontend and API endpoints, beta access, and a dated state coverage snapshot. Workspace access requires approved onboarding.
+
 ## Start here
 
 **[Read the full overview](https://github.com/retrieve-IQ/.github/blob/main/README.md)** · **[Browse the documentation](https://github.com/retrieve-IQ/.github/blob/main/docs/README.md)**
