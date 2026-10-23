@@ -8,7 +8,7 @@ Welcome to Retrieve-IQ. Explore our public documentation to learn about the plat
 
 Retrieve-IQ retrieves and normalizes property-tax data, manages supporting documents, and helps teams track due dates, obligations, and portfolio activity. Its [documented reader coverage](https://github.com/retrieve-IQ/.github/blob/main/docs/PROPERTY_TAX.md#state-coverage) spans over 900 jurisdictions.
 
-**[Explore the property-tax guide](https://github.com/retrieve-IQ/.github/blob/main/docs/PROPERTY_TAX.md)** · **[Open the beta application](https://retrieveiq-prod-web.onrender.com)**
+**[Explore the property-tax guide](https://github.com/retrieve-IQ/.github/blob/main/docs/PROPERTY_TAX.md)**
 
 See the guide for production frontend and API endpoints, beta access, and a dated state coverage snapshot. Workspace access requires approved onboarding.
 
@@ -26,6 +26,13 @@ See the guide for production frontend and API endpoints, beta access, and a date
 | [Best Practices](https://github.com/retrieve-IQ/.github/blob/main/docs/BEST_PRACTICES.md) | Query design and performance guidance |
 | [FAQ](https://github.com/retrieve-IQ/.github/blob/main/docs/FAQ.md) | Answers to common questions |
 | [Troubleshooting](https://github.com/retrieve-IQ/.github/blob/main/docs/TROUBLESHOOTING.md) | Help diagnosing common issues |
+
+## Contact and access
+
+- **Application:** [Launch retrieveiq-ai](https://retrieveiq-prod-web.onrender.com)
+- **Email:** [Contact the team](mailto:retrieveiq@gmail.com)
+
+For beta access or a portfolio evaluation, contact the team with your organization, target jurisdictions, and the workflows you would like to explore.
 
 ## Get involved
 
