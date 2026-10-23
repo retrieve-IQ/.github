@@ -6,7 +6,7 @@ Return to the [organization profile](https://github.com/retrieve-IQ) or the [ful
 
 ## Property tax platform
 
-Start with [Property tax operations with Retrieve-IQ](PROPERTY_TAX.md) for the portfolio workflow, production URLs, beta program, and state coverage. This is the product-specific guide; the general search and retrieval references below describe a separate use case.
+Start with [Property tax operations with Retrieve-IQ](PROPERTY_TAX.md) to explore jurisdiction data retrieval and normalization, document management, due dates, and obligations, plus production URLs, beta access, and state coverage. This is the product-specific guide; the general search and retrieval references below describe a separate use case.
 
 ## Quick Links
 

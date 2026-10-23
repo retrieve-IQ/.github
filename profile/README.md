@@ -1,12 +1,12 @@
 # Retrieve-IQ
 
-**Intelligent information retrieval, knowledge management, and data orchestration.**
+**Jurisdiction data, documents, and obligations in one workspace.**
 
 Welcome to Retrieve-IQ. Explore our public documentation to learn about the platform, review architecture and API guides, and find practical integration examples.
 
 ## Property tax platform
 
-For enterprise taxpayers and agent firms: bring property-tax bills, portfolio review, appeals, and deadlines into one workspace.
+Retrieve-IQ retrieves and normalizes property-tax data, manages supporting documents, and helps teams track due dates, obligations, and portfolio activity. Its [documented reader coverage](https://github.com/retrieve-IQ/.github/blob/main/docs/PROPERTY_TAX.md#state-coverage) spans over 900 jurisdictions.
 
 **[Explore the property-tax guide](https://github.com/retrieve-IQ/.github/blob/main/docs/PROPERTY_TAX.md)** · **[Open the beta application](https://retrieveiq-prod-web.onrender.com)**
 

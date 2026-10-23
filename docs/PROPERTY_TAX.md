@@ -1,8 +1,8 @@
 # Property tax operations with Retrieve-IQ
 
-**Bring county bills, portfolio review, and appeal tracking into one workspace.**
+**Retrieve and normalize jurisdiction data. Manage documents, due dates, and obligations in one workspace.**
 
-Retrieve-IQ helps enterprise taxpayers and property-tax agent firms organize real-property tax work across jurisdictions. Connect a portfolio to supported county sources, review bills and exceptions, follow payment and appeal dates, and produce reports with the underlying evidence in view.
+Retrieve-IQ helps enterprise taxpayers and property-tax agent firms turn fragmented jurisdiction records into organized portfolio information. It retrieves and normalizes property-tax data, manages supporting documents, and connects records to due dates, obligations, and review workflows. Its [documented reader coverage](#state-coverage) spans over 900 jurisdictions.
 
 **[Open the beta application](https://retrieveiq-prod-web.onrender.com)** · **[Request beta access](mailto:team@retrieve-iq.com?subject=Property%20tax%20beta)**
 
@@ -26,15 +26,15 @@ Retrieve-IQ helps enterprise taxpayers and property-tax agent firms organize rea
 | Agent firms | Work within authorized client engagements and keep client portfolio work organized |
 | Portfolio and finance teams | Review liability forecasts, assessment changes, exceptions, and appeal outcomes |
 
-The core use case is ongoing portfolio oversight: understanding what arrived, what needs review, what is due, and which assessments are under appeal.
+The core use case is ongoing portfolio oversight: understanding what information is available, which documents need review, what obligations are approaching, and which matters require action.
 
 ## The portfolio workflow
 
 ```mermaid
 flowchart TD
-    A[Add or import portfolio parcels] --> B[Retrieve bills from supported sources]
-    B --> C[Validate and review exceptions]
-    C --> D[Track dates and appeals]
+    A[Add or import portfolio parcels] --> B[Retrieve and normalize jurisdiction data]
+    B --> C[Review documents and data quality]
+    C --> D[Track obligations and due dates]
     D --> E[Export portfolio reports]
 ```
 
@@ -42,13 +42,13 @@ flowchart TD
 
 Add parcels individually or import a parcel CSV. Identify the relevant assessing and billing jurisdictions, and review coverage before relying on automated retrieval. For agent firms, onboarding also establishes the authorized client relationship.
 
-### 2. Collect and review bills
+### 2. Retrieve, normalize, and review records
 
-Configured readers retrieve records from supported government portals. The bill inbox brings records into a review workflow with source documents and validation findings. Reviewers can accept, flag, or reject a bill.
+Configured readers retrieve and normalize records from supported government portals. Source documents, structured data, and validation findings come together in a review workflow. For tax bills, reviewers can accept, flag, or reject the record.
 
 A bill that fails reconciliation is retained for review and withheld from financial totals until its validation issues are cleared. Assessment year and payable year remain distinct, and missing payment information stays unknown rather than being treated as zero paid.
 
-### 3. Follow payment and appeal dates
+### 3. Track due dates and obligations
 
 The calendar brings together installment dates and derived appeal windows. A subscribable iCal feed makes available dates accessible from a calendar client.
 
